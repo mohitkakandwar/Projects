@@ -1,0 +1,93 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 4%;
+   
+}
+
+body{
+    /* background-image:url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/dark-red-background-image-sandra-johnson.jpg'); */
+    background-image: url(../images/background.jpg);
+ 
+}
+
+
+.container {
+    max-width: 955px;
+    border: 6px solid white;
+    padding: 33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+    margin: auto;
+    height: 60vh;
+}
+
+
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 945px;
+    width: 100%;
+}
+
+#messageInp{
+    width: 92%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 34px;
+}
+
+.btn{
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 6px;
+    height: 39px;
+    width: 32%;
+    background-color: deepskyblue;
+}
+
+.btn:hover{
+    background-color: grey;
+}
+
+
+.message{
+    background-color: deepskyblue;
+    width: 36%;
+    padding: 10px;
+    margin: 17px 12px;
+    border:2px solid white;
+    border-radius: 10px;
+    font-size: 140%;
+}
+
+.left{
+    background-color: white;
+    width: 36%;
+    padding: 10px;
+    margin: 17px 12px;
+    border:2px solid white;
+    border-radius: 10px;
+    float: left;
+    clear: both;
+    font-size: 140%;
+
+
+
+}
+
+.right{
+    background-color: deepskyblue;
+    width: 36%;
+    padding: 10px;
+    margin: 17px 12px;
+    border:2px solid white;
+    border-radius: 10px;
+    float: right;
+    clear: both;
+    font-size: 140%;
+}
+
+
+
