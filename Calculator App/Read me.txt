@@ -1,0 +1,2 @@
+This is calcutor app ,created in IONIC framework by using Angular JS.
+The frontend is crated by using html and ionic tags ,styling is done by using scss and functionality is done by using typescript .
