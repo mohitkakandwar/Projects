@@ -1,0 +1,2 @@
+This is a application for changing Text to speech .
+created in Ionic 4 using angular 9 framework.
